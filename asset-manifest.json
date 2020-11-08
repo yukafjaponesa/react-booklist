@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-booklist/static/css/main.34b4cc7c.chunk.css",
-    "main.js": "/react-booklist/static/js/main.5b84769d.chunk.js",
-    "main.js.map": "/react-booklist/static/js/main.5b84769d.chunk.js.map",
+    "main.js": "/react-booklist/static/js/main.48ca6ac2.chunk.js",
+    "main.js.map": "/react-booklist/static/js/main.48ca6ac2.chunk.js.map",
     "runtime-main.js": "/react-booklist/static/js/runtime-main.76d71b12.js",
     "runtime-main.js.map": "/react-booklist/static/js/runtime-main.76d71b12.js.map",
     "static/js/2.e3f3205a.chunk.js": "/react-booklist/static/js/2.e3f3205a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.76d71b12.js",
     "static/js/2.e3f3205a.chunk.js",
     "static/css/main.34b4cc7c.chunk.css",
-    "static/js/main.5b84769d.chunk.js"
+    "static/js/main.48ca6ac2.chunk.js"
   ]
 }
